@@ -82,5 +82,3 @@ The system is designed to be **cost-effective, scalable, and reliable**, making 
 - Control appliances from app or voice assistants  
 
 ---
-
-## 📂 Project Structure  
